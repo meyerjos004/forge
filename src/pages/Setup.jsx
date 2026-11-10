@@ -79,7 +79,7 @@ export default function Setup() {
         <ol className="space-y-4">
           <Step n="1" title="Open Forge in Safari">
             <p>It has to be Safari for this step.</p>
-            <CopyField label="Link" value="https://meyerjos004.github.io/josh-ideas-dashboard/forge/" />
+            <CopyField label="Link" value="https://meyerjos004.github.io/forge/" />
           </Step>
           <Step n="2" title="Tap Share, then Add to Home Screen">
             <p>Forge opens full-screen like a normal app from then on, and remembers who you are.</p>

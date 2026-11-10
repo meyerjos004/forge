@@ -5,7 +5,7 @@ import webpush from 'npm:web-push@3.6.7'
 
 const VAPID_PUBLIC = 'BEIIqetkSpMuwH8EjzIGC1uBZBLXXP-Umxps4kgsbKYemNewprXTd8LjfjzvDpV6jA2SeSldpDWF81nTNL9u6KY'
 const PUBLIC_KEY = 'sb_publishable_VdkNDTcxwk0lkWpppf9vtQ_jAq4adZn'
-const APP = 'https://meyerjos004.github.io/josh-ideas-dashboard/forge/'
+const APP = 'https://meyerjos004.github.io/forge/'
 
 const cors = {
   'Access-Control-Allow-Origin': '*',

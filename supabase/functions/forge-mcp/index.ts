@@ -11,7 +11,7 @@ const STAGES = ['dump', 'exploring', 'validating', 'chosen', 'killed']
 // download = files/PDFs/templates, community = paid membership, course = online course, digital = software/app
 const KINDS = ['download', 'community', 'course', 'digital', 'physical', 'service', 'unsure']
 const CRITERIA = ['demand', 'margin', 'cheap', 'fit', 'hype']
-const APP = 'https://meyerjos004.github.io/josh-ideas-dashboard/forge/'
+const APP = 'https://meyerjos004.github.io/forge/'
 
 const cors = {
   'Access-Control-Allow-Origin': '*',
